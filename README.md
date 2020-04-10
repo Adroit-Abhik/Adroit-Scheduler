@@ -1,6 +1,6 @@
 # Adroit-Scheduler
 ----------------------------------------------------------------------------------------------------------------------------
-### An intelligent timetable generator that generates University timetable using `Genetic Algorithms`.
+### An intelligent timetable generator that generates University timetable using `Genetic Algorithm`.
 
   A wrorking version of the prototype:- ['Adroit Scheduler'](http://abhik.pythonanywhere.com/)
   
@@ -24,3 +24,6 @@ project uses genetic algorithm to satisfy the constraints related to Timetable s
 | Two classes dont have same room                   | Even distribution of course in a section per week    |
 | Class timing for each teacher is unique           |
 | Teachers are allocated to their course accordingly|
+
+#### For any queries or to commit any changes, contact:
+['Abhik Mitra'](mitraabhik2212@gmail.com)
